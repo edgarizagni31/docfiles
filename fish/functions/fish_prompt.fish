@@ -1,0 +1,1 @@
+/home/edgar_ochoa/.local/share/omf/themes/spacefish/fish_prompt.fish
